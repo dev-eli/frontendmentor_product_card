@@ -136,7 +136,7 @@ body {
     border-radius: 4%;
   }
   .card img {
-    content: url("./product_preview_card/images/image-product-desktop.jpg");
+    content: url("./image-product-desktop.jpg");
     max-width: 350px;
     border-top-left-radius: 4%;
     border-bottom-left-radius: 4%;
